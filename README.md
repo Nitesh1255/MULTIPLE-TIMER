@@ -1,6 +1,8 @@
 # Introduction
 Welcome to the Multiple Timer web application! This tool empowers you to set and manage multiple timers simultaneously, providing a convenient solution for time management and organization. Whether you're working on various tasks or managing different activities, this application is designed to simplify your timer needs.
 
+![New Timer](https://github.com/Nitesh1255/MULTIPLE-TIMER/assets/119393883/8b9f34ca-1d50-45b0-ae34-3afb5f726959)
+
 # Features
 Multiple Timers: Create and run multiple timers concurrently.
 Customization: Personalize each timer with a distinct title and duration.
